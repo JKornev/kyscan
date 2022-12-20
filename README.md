@@ -3,10 +3,12 @@ Simple quake3 port scanner that is able to scan for:
 - Quake3 server ports
 - Qwfwd proxy ports
 
+Based on [q3net](https://github.com/JKornev/q3net) project
+
 ![demo](https://dos-ninja-store.s3.amazonaws.com/data/django-summernote/2022-12-20/c26bc388-ccaa-439f-9f93-b73f63f8be05.gif)
 
 ## Usage
-Fast scan verifies most frequent ports
+Fast scan verifies the most frequent ports
 ```
 kyscan.py fast fpsclasico.de
 ```
